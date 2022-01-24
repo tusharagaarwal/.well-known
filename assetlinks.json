@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sbi.lotusintouch",
+    "sha256_cert_fingerprints":
+    ["43:57:76:89:1F:2C:A2:14:E3:ED:16:7C:42:F6:0E:47:D9:6F:A4:9E:0C:9E:A7:6D:BD:99:36:FA:54:F1:5F:42"]
+  }
+}]
